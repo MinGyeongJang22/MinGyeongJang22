@@ -12,7 +12,21 @@
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>&nbsp
 </p>
-📖📖📕📗📘📙
+
+
+<h3 align="center">📕 Studying 📗</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/></a>&nbsp  
+</p>
+
+<h3 align="center">⚙️ Tools ⚙️</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/></a>&nbsp  
+</p>
+
 <!--
 **MinGyeongJang22/MinGyeongJang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

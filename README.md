@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,3&text=Hi%20there!%20Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=3d8585)
 
+<h3 align="center">📖 Tech Stack 📖</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+</p>
+📖📖📕📗📘📙
 <!--
 **MinGyeongJang22/MinGyeongJang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

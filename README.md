@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=#a8fff1)
 
 ## Hi there. Welcome to my GitHub👋
 

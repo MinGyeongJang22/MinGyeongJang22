@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,3&text=Hi%20there!%20Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=3d8585)
 
-## Hi there. Welcome to my GitHub👋
-
 <!--
 **MinGyeongJang22/MinGyeongJang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
